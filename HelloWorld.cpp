@@ -6,6 +6,10 @@ int sum(int a, int b){
 return a+b;
 }
 
+int sub(int a, int b){
+return a-b;
+}
+
 int div(int c, int d){
 return c/d;
 }
@@ -18,6 +22,7 @@ int main()
 {
 	string name="CPP";
         cout << sum(10,20)<<endl;
+        cout << sub(20,10)<<endl;
         Display();	
         return 0;
 }
