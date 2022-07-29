@@ -2,13 +2,12 @@
 #include<string>
 using namespace std;
 
-int sum(int a,int b){
-return a+b;
+void Display(){
+cout<<"Learning Display Function"<<endl;
 }
-
 int main()
 {
 	string name="CPP";
-	cout << sum(10,20)<<endl;
+	cout << Display();
 	return 0;
 }
