@@ -14,12 +14,18 @@ int div(int c, int d){
 return c/d;
 }
 
+void Display(){
+cout<<"Learning Display Function"<<endl;
+}
+
 int main()
 {
+
 	
 	cout << "Hello World"<<endl;
         cout<<multiplication(10,10)<<endl;
-        cout <<sum(10,20)<<endl
-        cout<<div(20,10)<<endl
-	return 0;
+        cout <<sum(10,20)<<endl;
+        cout<<div(20,10)<<endl;
+        Display();
+        return 0;
 }
