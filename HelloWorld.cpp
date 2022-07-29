@@ -3,7 +3,11 @@
 using namespace std;
 
 int sum(int a, int b){
-    return a+b;
+return a+b;
+}
+
+int div(int c, int d){
+return c/d;
 }
 
 int main()
