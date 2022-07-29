@@ -10,10 +10,14 @@ int div(int c, int d){
 return c/d;
 }
 
+void Display(){
+cout<<"Learning Display Function"<<endl;
+}
+
 int main()
 {
 	string name="CPP";
         cout << sum(10,20)<<endl;
-
-	return 0;
+        Display();	
+        return 0;
 }
