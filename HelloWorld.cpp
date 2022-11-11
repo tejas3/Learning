@@ -22,6 +22,11 @@ void Display(){
 cout<<"Learning Display Function"<<endl;
 }
 
+void show()
+{
+cout<<"show.."<<endl;
+}
+
 int main()
 {
         cout << "Hello World"<<endl;
@@ -30,5 +35,6 @@ int main()
         cout<<div(20,10)<<endl;
         cout <<sub(10, 20);
         Display();
+        show();
         return 0;
 }
