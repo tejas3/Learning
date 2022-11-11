@@ -27,6 +27,11 @@ void show()
 cout<<"show.."<<endl;
 }
 
+void print()
+{
+cout<<"Learning Github"<<endl;
+}
+
 int main()
 {
         cout << "Hello World"<<endl;
@@ -36,5 +41,6 @@ int main()
         cout <<sub(10, 20);
         Display();
         show();
+        print();
         return 0;
 }
