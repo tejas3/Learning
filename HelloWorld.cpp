@@ -34,7 +34,7 @@ cout<<"Learning Github"<<endl;
 
 void hello()
 {
-cout<<Hello,I am learning github<<endl;
+cout<<"Hello,I am learning github"<<endl;
 }
 int main()
 {
