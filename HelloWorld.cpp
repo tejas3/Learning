@@ -32,6 +32,10 @@ void print()
 cout<<"Learning Github"<<endl;
 }
 
+void hello()
+{
+cout<<Hello,I am learning github<<endl;
+}
 int main()
 {
         cout << "Hello World"<<endl;
@@ -42,5 +46,6 @@ int main()
         Display();
         show();
         print();
+        hello();
         return 0;
 }
