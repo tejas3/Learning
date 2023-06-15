@@ -32,6 +32,11 @@ void print()
 cout<<"Learning Github"<<endl;
 }
 
+void june_joining(){
+	
+	cout<<"restarting the Git training for New batch "<<endl;
+}
+
 int main()
 {
         cout << "Hello World"<<endl;
@@ -42,5 +47,6 @@ int main()
         Display();
         show();
         print();
+		june_joining();
         return 0;
 }
