@@ -32,9 +32,9 @@ void print()
 cout<<"Learning Github"<<endl;
 }
 
-void hello()
+void Hello()
 {
-cout<<"Hello,I am learning github"<<endl;
+cout<<"Hey,I am learning github"<<endl;
 }
 int main()
 {
